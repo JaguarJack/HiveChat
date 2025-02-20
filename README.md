@@ -151,7 +151,7 @@ docker compose up -d
 ### 方法 3：在 Vercel 上部署
 点击下面的按钮，即可开始部署。
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/HiveNexus/hivechat.git&project-name=hivechat&env=DATABASE_URL&env=AUTH_SECRET&env=ADMIN_CODE)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/JaguarJack/hivechat.git&project-name=hivechat&env=DATABASE_URL&env=AUTH_SECRET&env=ADMIN_CODE)
 
 默认将代码克隆的自己的 Github 后，需要填写环境变量：
 
